@@ -1,0 +1,16 @@
+
+0. Have it read your brain and chat with you. 
+1. Load the GPT2 Tokeninizer
+
+2. Parse it through Meta AI Brainwave reader api
+
+
+3. Cleanse the code with DEEPSEEDX 
+
+
+4. Optimize the lstm with pytorch and synthizied data from megatron-nl's dataset.
+
+5. Launch the agi:
+##
+PROMPT THE ASI:
+##
